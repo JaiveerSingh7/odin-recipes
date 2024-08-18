@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+h1{
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:olive;
+    margin-bottom: 70px;
+}
+ul{
+    width:310px;
+    margin:auto;
+    font-size: 20px;
+}
+.list{
+    /* margin: 20px 0; */
+    box-sizing: border-box;
+    margin:15px 0;
+    width:310px;
+    /* height: 60px; */
+    /* background-color: olive; */
+    /* padding: 10px; */
+}
+a{
+    padding:10px 0;
+    color: darkgreen;
+}
